@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Project4</string>
+    <string name="album_list">Album List - This screen wil display all the songs in albums activity.</string>
+    <string name="album">Album Activity - This screen display all the albums.</string>
+    <string name="artist_list">Artist List - This screen displays all the songs in artists activity.</string>
+    <string name="artist">Artist Activity - This screen display all the artists.</string>
+    <string name="main">Project4 - This is the main page of our music app.</string>
+    <string name="like_song">Liked Song - This screen display all the songs liked by us.</string>
+    <string name="payment">Payment - This activity helps us pay for the songs we want to add in our music app.</string>
+    <string name="playingnow">Now Playing - This screen display all the songs we are currently playing from the media player.</string>
+    <string name="playlist">Playlist Activity - This screen display all the playlists created by us.</string>
+    <string name="playlist_list">Playlist List - This screen displays all the songs in playlists activity.</string>
+    <string name="song">Song - This screen displays all the songs in our app.</string>
+
+</resources>
